@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538499251147",
+    "firebase_url": "https://database-disertatie-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "database-disertatie",
+    "storage_bucket": "database-disertatie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538499251147:android:82f53a343533482bdfd44e",
+        "android_client_info": {
+          "package_name": "com.Disertatie.BlockBreaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538499251147-0fc4l7cruumtquh23c46vja7ojvqfm33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCuonmuq9Yb-OeOmYNyAFF-PPn3qX5JOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538499251147-0fc4l7cruumtquh23c46vja7ojvqfm33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
